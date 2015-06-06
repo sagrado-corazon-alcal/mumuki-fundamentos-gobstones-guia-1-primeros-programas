@@ -3,19 +3,19 @@ Para pensar:
 Notá que estos dos programas hacen lo mismo:
 
 ```ruby
-def main
-  move! east
-  move! east
-  move! south
-end
+program {
+  Mover(Este)
+  Mover(Este)
+  Mover(Sur)
+}
 ```
 
 ```ruby
-def main
-  move! east
-  move! south
-  move! east
-end
+program {
+  Mover(Este)
+  Mover(Sur)
+  Mover(Este)
+}
 ```
 
 Moraleja: ¡No hay una sóla forma de resolver un problema!

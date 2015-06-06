@@ -1,6 +1,6 @@
-Las direcciones tienen los nombres de los cuatro puntos cardinales en inglés:
+Las direcciones tienen los nombres de los cuatro puntos cardinales, con la primera letra en mayúsculas:
 
-* `north` (norte)
-* `south` (sur)
-* `east` (este)
-* `west` (oeste)
+* `Norte`
+* `Sur`
+* `Este`
+* `Oeste`

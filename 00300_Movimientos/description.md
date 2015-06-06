@@ -9,9 +9,9 @@ Con éste podemos fácilmente escribir un programa que mueva el cabezal una posi
 El **código** del programa (es decir, la descripcion del programa que le daremos a la computadora) que hace esto es el siguiente:
 
 ```ruby
-def main
-  move! north
-end
+program {
+  Mover(Norte)
+}
 ```
 
 ¡No te vemos muy convencido! Copiá y pegá el código anterior en el editor a tu izquierda y dale Enviar.
