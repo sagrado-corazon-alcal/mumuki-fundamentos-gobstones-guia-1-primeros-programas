@@ -2,7 +2,7 @@ Hasta ahora no tuvimos mucha emoción, porque el tablero lo generamos por vos. P
 
 Supongamos que tenemos el siguiente tablero **inicial**:
 
-![3x3h](https://raw.githubusercontent.com/mumuki/mumuki-fundamentos-ruby-stones-guia-1-primeros-programas/master/3x3h.png)
+![3x3h](https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-fundamentos-gobstones-guia-1-primeros-programas/master/3x3h.png)
 
 Con éste podemos fácilmente escribir un programa que mueva el cabezal una posición hacia el **norte**.
 
