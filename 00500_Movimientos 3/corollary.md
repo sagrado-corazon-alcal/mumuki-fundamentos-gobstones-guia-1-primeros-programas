@@ -2,7 +2,7 @@ Para pensar:
 
 Notá que estos dos programas hacen lo mismo:
 
-```ruby
+```c
 program {
   Mover(Este)
   Mover(Este)
@@ -10,7 +10,7 @@ program {
 }
 ```
 
-```ruby
+```c
 program {
   Mover(Este)
   Mover(Sur)
