@@ -2,7 +2,7 @@ Ahora que conocemos a `Poner` y `Mover`, que nos sirven para controlar al cabeza
 
 Por ejemplo el siguiente programa coloca una bolita roja en la posición inicial, una negra al este, y una verde al noroeste.
 
-```c
+```puppet
 program {
   Poner(Rojo)
   Mover(Este)

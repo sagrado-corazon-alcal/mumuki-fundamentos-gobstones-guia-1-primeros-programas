@@ -1,7 +1,7 @@
 Ahora que combinamos operaciones, la cosa se pone un poco mas complicada, porque hay que tener mas cuidado con el orden. Por ejemplo, estos dos programas no son equivalentes:
 
 
-```c
+```puppet
 program {
   Poner(Rojo)
   Mover(Este)
@@ -13,7 +13,7 @@ program {
 
 y
 
-```c
+```puppet
 program {
   Mover(Este)
   Poner(Rojo)

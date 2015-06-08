@@ -6,7 +6,7 @@ Por ejemplo, si tenemos este tablero:
 
 y ejecutamos el siguiente programa:
 
-```c
+```puppet
 program {
   Poner(Rojo)
   Poner(Rojo)

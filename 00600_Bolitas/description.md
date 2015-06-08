@@ -13,7 +13,7 @@ Por ejemplo, este es un tablero con una bolita roja en `(1, 0)`, y una bolita ne
 
 El cabezal además de moverse también puede poner bolitas en la celda actual. Para eso contamos con la operación `Poner`, que le dice al cabezal que deposite una bolita del color dado:
 
-```c
+```puppet
 program {
   Poner(Rojo)    
 }

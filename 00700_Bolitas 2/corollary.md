@@ -2,7 +2,7 @@ Notá que en este problema, si cambiamos el orden en que _llamamos_ (usamos a)`P
 
 Por ejemplo, los siguientes dos programas también resuelven este mismo problema:
 
-```c
+```puppet
 program {
   Poner(Rojo)
   Poner(Rojo)
@@ -12,7 +12,7 @@ program {
 }
 ```
 
-```c
+```puppet
 program {
   Poner(Rojo)
   Poner(Azul)
