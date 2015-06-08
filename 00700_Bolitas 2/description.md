@@ -2,18 +2,18 @@ Algo interesante de nuestros tableros es que en sus celdas podemos poner cualqui
 
 Por ejemplo, si tenemos este tablero:
 
-![5x2h](https://raw.githubusercontent.com/mumuki/mumuki-fundamentos-ruby-stones-guia-1-primeros-programas/master/5x2h.png)
+![5x2h](https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-fundamentos-gobstones-guia-1-primeros-programas/master/5x2h.png)
 
 y ejecutamos el siguiente programa:
 
-```ruby
-def main
-  push! red
-  push! red
-  push! blue
-  push! green
-  push! red
-end
+```c
+program {
+  Poner(Rojo)
+  Poner(Rojo)
+  Poner(Azul)
+  Poner(Verde)
+  Poner(Rojo)
+}
 ```
 
 el cabezal colocará en la celda actual (que es la `(3, 1)`) tres bolitas rojas, una azul y una verde.
