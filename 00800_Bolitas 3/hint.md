@@ -4,4 +4,4 @@ Y eso es porque.... ¡no te debe importar! Si tu programa está bien escrito, y 
 
 De todas formas, sólo por esta vez y como ayudita te mostramos el tablero sobre el que ejecutaremos tu programa:
 
-![3x3h](https://raw.githubusercontent.com/mumuki/mumuki-fundamentos-ruby-stones-guia-1-primeros-programas/master/3x3h.png)
+![3x3h](https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-fundamentos-gobstones-guia-1-primeros-programas/master/3x3h.png)
