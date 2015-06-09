@@ -1,2 +1,2 @@
-Combinando las operaciones `push!` y `pop!` podemos reemplazar bolitas de una celda por bolitas de otro color.
+Combinando las operaciones `Poner` y `Sacar` podemos reemplazar bolitas de una celda por bolitas de otro color.
 
