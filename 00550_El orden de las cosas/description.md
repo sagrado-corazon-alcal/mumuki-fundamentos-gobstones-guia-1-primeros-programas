@@ -1,16 +1,16 @@
 Cuando trabajamos con estos tableros, hacemos las cosas en un cierto orden. Por ejemplo, dado este programa
 
-```ruby
-def main
-  move! north
-  move! east
-end
+```puppet
+program {
+  Mover(Norte)
+  Mover(Este)
+}
 ```
 
 una posible forma de leer esto (llamada **operacional**) es como lo haría una máquina, en orden, de arriba hacia abajo:
 
-1. primero se mueve al norte: `move! nort`
-1. luego se mueve al este: `move! east`
+1. primero se mueve al norte: `Mover(Norte)`
+1. luego se mueve al este: `Mover(Este)`
 
 Y de hecho **se ejecuta de esa forma**. Esto es _cómo_ lo hace.
 
