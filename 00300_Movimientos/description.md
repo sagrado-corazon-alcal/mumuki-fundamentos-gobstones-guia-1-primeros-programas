@@ -6,7 +6,7 @@ Supongamos que tenemos el siguiente tablero **inicial**:
 
 Con éste podemos fácilmente escribir un programa que mueva el cabezal una posición hacia el **norte**:
 
-![3x3h01](https://raw.githubusercontent.com/mumuki/mumuki-fundamentos-ruby-stones-guia-1-primeros-programas/master/3x3h01.png)
+![3x3h01](https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-fundamentos-gobstones-guia-1-primeros-programas/master/3x3h01.png)
 
 El **código** del programa (es decir, la descripcion del programa que le daremos a la computadora) que hace esto es el siguiente:
 
