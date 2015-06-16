@@ -36,10 +36,10 @@ program {
 
 (mueve el cabezal dos posiciones hacia el norte)
 
-Sabiendo ésto, escribir un programa que en un tablero de 2x4 con el cabezal en el origen:
-
-![2x4h00](https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-fundamentos-gobstones-guia-1-primeros-programas/master/2x4h00.png)
-
-mueva el cabezal tres veces hacia el norte:
-
-![2x4h03](https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-fundamentos-gobstones-guia-1-primeros-programas/master/2x4h03.png)
+> Sabiendo ésto, escribir un programa que en un tablero de 2x4 con el cabezal en el origen:
+>
+> ![2x4h00](https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-fundamentos-gobstones-guia-1-primeros-programas/master/2x4h00.png)
+>
+> mueva el cabezal tres veces hacia el norte:
+>
+> ![2x4h03](https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-fundamentos-gobstones-guia-1-primeros-programas/master/2x4h03.png)

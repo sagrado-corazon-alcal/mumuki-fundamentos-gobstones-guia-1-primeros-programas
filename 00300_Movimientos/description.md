@@ -16,4 +16,4 @@ program {
 }
 ```
 
-¡No te vemos muy convencido! Copiá y pegá el código anterior en el editor a tu derecha y dale Enviar.
+> ¡No te vemos muy convencido! Copiá y pegá el código anterior en el editor a tu derecha y dale Enviar.

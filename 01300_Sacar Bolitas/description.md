@@ -11,7 +11,7 @@ progam {
 
 Cada vez que hacemos un `Sacar`, tenemos que tener más cuidado que con `Poner`, porque si no había al menos una bolita del color dado en la celda actual, ¡se rompe el programa!. Lo cual si bien no es la muerte de nadie, nos impide concretar nuestra tarea.
 
-Sabiendo esto, escribir un programa que elimine **sólo** la bolita roja de este tablero.
+> Sabiendo esto, escribir un programa que elimine **sólo** la bolita roja de este tablero.
 
 ![2x2r10n11](https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-fundamentos-gobstones-guia-1-primeros-programas/master/2x2r10n11.png)
 

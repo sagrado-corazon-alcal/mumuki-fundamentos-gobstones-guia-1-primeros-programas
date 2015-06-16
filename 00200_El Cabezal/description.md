@@ -10,4 +10,4 @@ El cabezal puede estar arriba de cualquier celda que esté dentro del tablero. P
 
 Cuando decimos que el cabezal está en la posición `(3, 1)`, **el orden de los números es importante**: el primer número representa la columna, y el segundo, la fila.
 
-¿No estás muy convencido de todo esto aún? Presioná Enviar y generaremos un tablero 3x3 con el cabezal en la posición `(1, 2)`.
+> ¿No estás muy convencido de todo esto aún? Presioná Enviar y generaremos un tablero 3x3 con el cabezal en la posición `(1, 2)`.

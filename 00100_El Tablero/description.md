@@ -8,5 +8,7 @@ o de 3x2:
 
 ![3x2](https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-fundamentos-gobstones-guia-1-primeros-programas/master/3x2.png)
 
-Todos los **programas** que escribiremos en esta y las próximas guías contarán con un tablero. Y para que veas que no mentimos, presioná el botón Enviar, y generaremos tu primer tablero: un tablero de 3x3.
+Todos los **programas** que escribiremos en esta y las próximas guías contarán con un tablero. 
+
+> Y para que veas que no mentimos, presioná el botón Enviar, y generaremos tu primer tablero: un tablero de 3x3.
 

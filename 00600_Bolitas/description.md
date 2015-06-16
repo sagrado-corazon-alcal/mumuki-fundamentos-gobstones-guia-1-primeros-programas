@@ -19,6 +19,6 @@ program {
 }
 ```
 
-¡Probá este programa! Copiá el código en el editor, envialo, y verás lo que pasa al ejecutarlo sobre este tablero:
+> ¡Probá este programa! Copiá el código en el editor, envialo, y verás lo que pasa al ejecutarlo sobre este tablero:
 
 ![3x3h](https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-fundamentos-gobstones-guia-1-primeros-programas/master/3x3h.png)
