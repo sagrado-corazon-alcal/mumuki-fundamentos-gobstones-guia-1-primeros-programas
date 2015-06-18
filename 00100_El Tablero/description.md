@@ -1,12 +1,10 @@
 Para empezar a programar, el primer elemento que vamos a usar es un **tablero** cuadriculado, similar al del Ajedrez, Damas o [Go](http://es.wikipedia.org/wiki/Go).
 
-Estos tableros pueden ser de cualquier tamaño, por ejemplo, de 4x4:
+Estos tableros pueden ser de cualquier tamaño, por ejemplo, 
 
-![4x4](https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-fundamentos-gobstones-guia-1-primeros-programas/master/4x4.png)
-
-o de 3x2:
-
-![3x2](https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-fundamentos-gobstones-guia-1-primeros-programas/master/3x2.png)
+| 4x4 | 3x2 |
+|:---:|:---:|
+|![4x4](https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-fundamentos-gobstones-guia-1-primeros-programas/master/4x4.png)|![3x2](https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-fundamentos-gobstones-guia-1-primeros-programas/master/3x2.png)|
 
 Todos los **programas** que escribiremos en esta y las próximas guías contarán con un tablero. 
 
