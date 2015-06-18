@@ -1,4 +1,4 @@
-> Escribí un programa que dibuje una bandera portugesa de 3x2:
+Escribí un programa que dibuje una bandera portuguesa de 3x2:
 
 <img src="http://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg" width="48">
 
