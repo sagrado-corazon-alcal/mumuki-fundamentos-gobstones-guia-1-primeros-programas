@@ -22,7 +22,7 @@ Es decir: pone una roja el la posicion inicial, y una negra al este
 
 Y ahora mirá este otro:
 
-```ruby
+```puppet
 program {
   Mover(Este)
   Poner(Rojo)
