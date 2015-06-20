@@ -1,5 +1,3 @@
-Para pensar:
-
 Notá que estos dos programas hacen lo mismo:
 
 ```puppet
