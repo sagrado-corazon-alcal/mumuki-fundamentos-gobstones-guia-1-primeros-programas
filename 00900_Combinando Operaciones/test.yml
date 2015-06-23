@@ -1,5 +1,6 @@
 examples:
- - initial_board: |
+ - title: Tablero de 2x2
+   initial_board: |
      GBB/1.0
      size 2 2
      head 0 0
@@ -9,7 +10,8 @@ examples:
      cell 0 0 Rojo 1
      cell 1 0 Negro 1
      head 1 0
- - initial_board: |
+ - title: Tablero de 3x2
+   initial_board: |
      GBB/1.0
      size 3 2
      head 0 0
