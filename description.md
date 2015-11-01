@@ -1,4 +1,4 @@
-¡Bienvenido!
+¡Hola!
 
 **Programar es el arte de hacer que una computadora resuelva nuestros problemas**. Y lo bueno es que una vez que le explicamos a una computadora cómo resolverlo, ésta nunca se aburre.
 
