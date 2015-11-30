@@ -3,7 +3,7 @@ Veamos otra operacion: de la misma forma que hay un "poner bolita" (`Poner`), te
 Por ejemplo, el siguiente programa saca dos bolitas de la posición inicial.
 
 ```puppet
-progam {
+program {
   Sacar(Rojo)
   Sacar(Rojo)
 }
