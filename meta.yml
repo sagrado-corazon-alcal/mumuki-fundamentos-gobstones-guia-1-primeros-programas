@@ -1,5 +1,23 @@
+---
+name: Primeros Programas
 locale: es
+type: learning
+beta: false
 language: gobstones
-original_id_format: '%05d'
-learning: true
-name: 'Primeros Programas'
+id_format: '%05d'
+order:
+- 100
+- 200
+- 300
+- 400
+- 500
+- 550
+- 600
+- 700
+- 800
+- 900
+- 1000
+- 1100
+- 1200
+- 1300
+- 1400
