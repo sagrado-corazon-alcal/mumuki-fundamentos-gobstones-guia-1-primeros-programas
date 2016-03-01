@@ -7,7 +7,7 @@ En cualquier celda de nuestro tablero podemos poner `bolitas`. Las hay de distin
  * Negras (`Negro`)
  * Y verdes (`Verde`)
 
-Por ejemplo, este es un tablero con una bolita roja en `(1, 0)`, y una bolita negra en `(1, 1)`:
+Por ejemplo, este es un tablero con una bolita roja y una negra:
 
 ![2x2r10n11](https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-fundamentos-gobstones-guia-1-primeros-programas/master/2x2r10n11.png)
 
