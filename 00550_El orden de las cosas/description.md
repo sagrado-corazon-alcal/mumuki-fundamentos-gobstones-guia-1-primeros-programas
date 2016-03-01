@@ -1,4 +1,4 @@
-Cuando trabajamos con estos tableros, hacemos las cosas en un cierto orden. Por ejemplo, dado este programa
+Cuando trabajamos con estos tableros, hacemos las cosas en un cierto orden. Por ejemplo, dado este programa,
 
 ```puppet
 program {

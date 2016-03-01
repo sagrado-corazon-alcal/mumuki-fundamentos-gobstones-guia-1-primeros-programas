@@ -1,4 +1,4 @@
-Como te imaginaras, el cabezal no sólo se puede mover hacia el norte, y un programa puede combinar cualquier tipo de movimientos.
+Como te imaginarás, el cabezal no sólo se puede mover hacia el norte, y un programa puede combinar cualquier tipo de movimientos.
 
 Escribí un programa que mueva el cabezal dos posiciones hacia el este y una hacia el sur, produciendo el siguiente efecto:
 
