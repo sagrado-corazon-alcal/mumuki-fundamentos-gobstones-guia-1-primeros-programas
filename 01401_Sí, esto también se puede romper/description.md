@@ -5,5 +5,6 @@ Si bien **nunca** vamos a querer que nuestro programa se rompa, en este ejercici
 ¿Y cómo es esa forma? Fácil, intentando mover el cabezal por fuera de los límites del tablero.
 
 > Tu tarea es escribir un programa que haga que el cabezal se caiga de este tablero:
+
 ![3x3h](https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-fundamentos-gobstones-guia-1-primeros-programas/master/3x3h.png)
 
