@@ -4,7 +4,7 @@ Si bien **nunca** vamos a querer que nuestro programa se rompa, es algo que defi
 
 Dicho esto, te vamos a mostrar una forma de hacerlo, simplemente para que no te asustes _tanto_ cuando te pase de verdad. :grin:
 
-> ¿Y cómo es esa forma? Descubrilo vos: intentá mover el cabezal por fuera de los límites del tablero que está acá abajo.
+> ¿Y cómo es esa forma? Descubrilo vos: partiendo del tablero que te mostramos acá abajo, escribí un programa que provoque que el cabezal se salga fuera de los límites.
 
 ![3x3h](https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-fundamentos-gobstones-guia-1-primeros-programas/master/3x3h.png)
 
