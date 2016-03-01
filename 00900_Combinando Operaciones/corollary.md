@@ -1,4 +1,4 @@
-Ahora que combinamos operaciones, la cosa se pone un poco mas complicada, porque hay que tener **mas cuidado con el orden**.
+Ahora que combinamos operaciones, la cosa se pone un poco mas complicada, porque hay que tener **más cuidado con el orden**.
 
 Por ejemplo, mirá el programa que escribiste:
 

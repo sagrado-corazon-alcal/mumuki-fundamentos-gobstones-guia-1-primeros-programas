@@ -1,4 +1,4 @@
-Notá que en este problema, si cambiamos el orden en que _llamamos_ (usamos a)`Poner`, el resultado no cambia: siempre nos terminará quedando un tablero con tres bolitas rojas, una azul y una verde.
+Notá que en este problema, si cambiamos el orden en que _llamamos_ (usamos a) `Poner`, el resultado no cambia: siempre nos terminará quedando un tablero con tres bolitas rojas, una azul y una verde.
 
 Por ejemplo, los siguientes dos programas también resuelven este mismo problema:
 

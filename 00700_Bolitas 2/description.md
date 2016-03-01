@@ -1,4 +1,4 @@
-Algo interesante de nuestros tableros es que en sus celdas podemos poner cualquiera cantidad de bolitas de cualquier color.
+Algo interesante de nuestros tableros es que en sus celdas podemos poner cualquier cantidad de bolitas de cualquier color.
 
 Por ejemplo, si tenemos este tablero:
 
@@ -16,6 +16,6 @@ program {
 }
 ```
 
-el cabezal colocará en la celda actual (que es la `(3, 1)`) tres bolitas rojas, una azul y una verde.
+el cabezal colocará en la celda actual tres bolitas rojas, una azul y una verde.
 
 > ¡Copiá este programa en el editor y fijate cómo queda el tablero!
