@@ -6,8 +6,8 @@ examples:
      cell 1 0 Negro 1
      cell 1 0 Rojo 1
      cell 1 0 Verde 1
-     head 1 0
+     head 0 0
    final_board: |
      GBB/1.0
      size 2 2
-     head 1 0
+     head 0 0
