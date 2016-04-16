@@ -18,4 +18,4 @@ Sin embargo, los humanos somos mejores hablando del todo, del resultado final: e
 
 Por eso hay varias formas de resolver un mismo problema: podemos escribir varios programas que hagan lo mismo (el _qué_), pero que lo hagan de forma diferente (el _cómo_).
 
-> Veamos si entendiste esto: intentá escribí otro programa que haga lo mismo que el de arriba (mover hacia el noreste), pero lo haga de otra forma.
+> Veamos si entendiste esto: escribí otro programa que haga lo mismo que el de arriba (mover hacia el noreste), pero de manera distinta.
