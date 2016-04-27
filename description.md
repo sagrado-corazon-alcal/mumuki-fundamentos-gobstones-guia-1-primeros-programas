@@ -6,7 +6,7 @@ Por eso saber programar nos da un gran poder: en lugar de hacer nosotros tareas 
 
 Y por eso es que decimos que programar, aunque es una actividad naturalmente técnica, tiene algo de arte: hay muchas formas de resolver un problema; encontrarlas es un proceso creativo. Y **si podés pensarlo, podés construirlo**.
 
-El resultado de programar es justamente... ¡un programa! O sea, una descripción de la solución al problema, que de alguna forma la máquina puede entender. 
+El resultado de programar es justamente... ¡un programa! O sea, una descripción de la solución al problema, que de alguna forma la máquina puede ejecutar. 
 
 Es bastante evidente que, entonces, para programar necesitamos:
 
