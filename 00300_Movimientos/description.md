@@ -1,4 +1,4 @@
-Hasta ahora lo que hiciste no fue muy emocionante, porque el tablero lo generamos por vos. Pero la cosa se pone interesante ahora: un programa no sólo tiene un tablero, sino que ¡puede mover al cabezal a nuestro antojo!
+Hasta ahora lo que hiciste no fue muy emocionante, porque el tablero lo generamos por vos. Pero de acá en adelante, la cosa se pone interesante: un programa no sólo tiene un tablero, sino que ¡puede mover al cabezal a nuestro antojo!
 
 Por ejemplo, si tenemos un tablero **inicial** vacío, podemos fácilmente escribir un programa que mueva el cabezal una posición hacia el **norte**:
 
