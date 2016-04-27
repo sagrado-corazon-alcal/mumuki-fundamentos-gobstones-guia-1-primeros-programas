@@ -6,7 +6,7 @@ Por ejemplo, si tenemos un tablero **inicial** vacío, podemos fácilmente escri
 |:-------:|:-:|:-----:|
 |![3x3h](https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-fundamentos-gobstones-guia-1-primeros-programas/master/3x3h.png)|<i class="fa fa-arrow-right"></i>|![3x3h01](https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-fundamentos-gobstones-guia-1-primeros-programas/master/3x3h01.png)|
 
-El **código** del programa (es decir, la descripción de la solución que le daremos a la computadora) que hace esto es el siguiente:
+El **código** del programa (es decir, el **texto** de la descripción de la solución que le daremos a la computadora) que hace esto es el siguiente:
 
 ```puppet
 program {
