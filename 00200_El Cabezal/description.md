@@ -10,4 +10,4 @@ Por ejemplo, el siguiente es un tablero de 5x2, con el cabezal en la segunda fil
 
 Algo importante: contamos las filas hacia arriba, y las columnas hacia la derecha. La primera **fila** es la de **abajo** de todo, y la primera **columna** es la de la **izquierda**.
 
-> ¿No estás te convence esto aún? Presioná Enviar y generaremos un tablero 3x3 con el cabezal en la segunda columna y tercera fila.
+> ¿No te convence esto aún? Presioná Enviar y generaremos un tablero 3x3 con el cabezal en la segunda columna y tercera fila.
