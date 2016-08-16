@@ -4,7 +4,7 @@ Aunque típicamente la programación está catalogada como una actividad netamen
 
 Saber programar nos da un gran poder: en lugar de hacer nosotros tareas repetitivas y tediosas, **usaremos nuestros conocimientos e imaginación para automatizarlas**, teniendo en cuenta que **si podés pensarlo, podés construirlo**. Lo bueno es que una vez que le explicamos a una computadora cómo resolver una tarea, ésta nunca se aburre.
 
-El resultado de programar es justamente... ¡un programa! O sea, una descripción de la solución al problema, que de alguna forma puede ser utilizado en una máquina de forma automática para resolver el problema. Al utilizar la máquina y el programa de esta manera decimos que la máquina **ejecuta** el programa.
+El resultado de programar es justamente... ¡un programa! O sea, una descripción de la solución al problema, que de alguna forma puede ser utilizada en una máquina de forma automática para resolver el problema. Al utilizar la máquina y el programa de esta manera decimos que la máquina **ejecuta** el programa.
 
 Es bastante evidente que, entonces, para programar necesitamos:
 
