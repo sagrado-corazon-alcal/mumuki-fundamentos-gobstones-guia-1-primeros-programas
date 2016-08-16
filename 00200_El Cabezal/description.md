@@ -8,6 +8,6 @@ Por ejemplo, el siguiente es un tablero de 5x2, con el cabezal en la segunda fil
 
 ![5x2h](https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-fundamentos-gobstones-guia-1-primeros-programas/master/5x2h.png)
 
-Entonces, contamos las filas hacia arriba, y las columnas hacia la derecha. La primera **fila** es la de **abajo** de todo, y la primera **columna** es la de la **izquierda**.
+Algo importante: contamos las filas hacia arriba, y las columnas hacia la derecha. La primera **fila** es la de **abajo** de todo, y la primera **columna** es la de la **izquierda**.
 
 > ¿No estás te convence esto aún? Presioná Enviar y generaremos un tablero 3x3 con el cabezal en la segunda columna y tercera fila.
