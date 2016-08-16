@@ -18,4 +18,4 @@ program {
 
 Moraleja: ¡No hay una sóla forma de resolver un problema!
 
-Y además, el orden, a veces, no es tan importante. Acompañanos a entender mejor esto.
+Y además, el orden, **a veces**, no es tan importante. Acompañanos a entender mejor esto.
