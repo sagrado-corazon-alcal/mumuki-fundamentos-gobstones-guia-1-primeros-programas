@@ -1,1 +1,1 @@
-Quizás tengas que mover el cabezal **antes** de intentar sacar la bolita :wink:.
+Quizás tengas que mover el cabezal **antes** de intentar sacar la bolita :innocent:.
