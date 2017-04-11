@@ -1,6 +1,6 @@
 ¡Hola!
 
-Aunque a veces la programación parece una actividad netamente técnica, también tiene una cuota interesante de arte: hay muchas formas de resolver un problema y encontrarlas es un proceso creativo. Podemos decir entonces que **programar es el arte de hacer que una computadora resuelva nuestros problemas** (suena ambicioso, ¿no?). 
+Aunque típicamente la programación está catalogada como una actividad netamente técnica, también tiene una cuota interesante de arte: hay muchas formas de resolver un problema y encontrarlas es un proceso creativo. Podemos decir entonces que **programar es el arte de hacer que una computadora resuelva nuestros problemas** (suena ambicioso, ¿no?). 
 
 Saber programar nos da un gran poder: en lugar de hacer nosotros tareas repetitivas y tediosas, **usaremos nuestros conocimientos e imaginación para automatizarlas**, teniendo en cuenta que **si podés pensarlo, podés construirlo**. Lo bueno es que una vez que le explicamos a una computadora cómo resolver una tarea, ésta nunca se aburre.
 
