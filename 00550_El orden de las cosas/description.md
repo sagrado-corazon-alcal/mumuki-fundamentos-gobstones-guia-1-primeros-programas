@@ -1,6 +1,6 @@
 Cuando trabajamos en Gobstones, hacemos las cosas en un cierto orden. Por ejemplo, si tenemos este programa:
 
-```puppet
+```gobstones
 program {
   Mover(Norte)
   Mover(Este)
