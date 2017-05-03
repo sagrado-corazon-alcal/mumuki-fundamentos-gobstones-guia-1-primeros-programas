@@ -11,7 +11,7 @@ La sintaxis de un `program` es bastante simple:
 Algunos ejemplos de `program`s:
 
 
-```puppet
+```gobstones
 program {
 }
 ```
@@ -19,7 +19,7 @@ program {
 (no hace nada)
 
 
-```puppet
+```gobstones
 program {
   Mover(Norte)
 }
@@ -27,7 +27,7 @@ program {
 
 (mueve el cabezal una posición hacia el norte)
 
-```puppet
+```gobstones
 program {
   Mover(Norte)
   Mover(Norte)
