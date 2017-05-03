@@ -9,7 +9,7 @@ program {
 }
 ```
 
-> Sabiendo esto, escribir un programa que elimine **sólo** la bolita roja de este tablero.
+> Sabiendo esto, escribí un programa que elimine **sólo** la bolita roja de este tablero. ¡Tené cuidado! Prestá atención a la posición del cabezal :wink:.
 
 ![2x2r10n11](https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-fundamentos-gobstones-guia-1-primeros-programas/master/2x2r10n11.png)
 
