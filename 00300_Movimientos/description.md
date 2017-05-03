@@ -8,7 +8,7 @@ Por ejemplo, partiendo de un tablero **inicial** vacío, podemos fácilmente esc
 
 El **código** del programa (es decir, el **texto** de la descripción de la solución que le daremos a la computadora) que logra esto es el siguiente:
 
-```puppet
+```gobstones
 program {
   Mover(Norte)
 }
