@@ -1,6 +1,6 @@
 Notá que estos dos programas hacen lo mismo:
 
-```puppet
+```gobstones
 program {
   Mover(Este)
   Mover(Este)
@@ -8,7 +8,7 @@ program {
 }
 ```
 
-```puppet
+```gobstones
 program {
   Mover(Este)
   Mover(Sur)
