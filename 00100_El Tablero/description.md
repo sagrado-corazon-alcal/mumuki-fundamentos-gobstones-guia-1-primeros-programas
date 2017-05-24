@@ -8,5 +8,5 @@ Estos tableros pueden ser de cualquier tamaño, por ejemplo,
 
 Siempre vamos a necesitar un tablero sobre el cual **ejecutar** nuestros **programas**, y nosotros nos vamos a encargar de crearlos por vos en cada uno de los ejercicios. Lo interesante es que un mismo programa puede ejecutarse sobre distintos tableros, potencialmente produciendo resultados diferentes.
 
-> Y para que veas que no mentimos, presioná el botón Enviar, y generaremos tu primer tablero: un tablero de 3x3.
+> Y para que veas que no mentimos, presioná el botón Continuar, y generaremos tu primer tablero: un tablero de 3x3.
 
