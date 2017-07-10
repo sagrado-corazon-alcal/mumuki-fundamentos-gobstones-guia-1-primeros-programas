@@ -1,17 +1,9 @@
-¡Hola!
+Aunque la programación parece una ciencia exacta, **programar es el arte de hacer que una computadora resuelva nuestros problemas**.
 
-Aunque a veces la programación parece una actividad netamente técnica, también tiene una cuota interesante de arte: hay muchas formas de resolver un problema y encontrarlas es un proceso creativo. Podemos decir entonces que **programar es el arte de hacer que una computadora resuelva nuestros problemas** (suena ambicioso, ¿no?). 
+Momento... ¿arte? :scream: ¡Sí! Hay muchas formas de resolver un problema y encontrarlas es un proceso creativo :bulb:. El resultado de este proceso es un _programa_: una descripción de la solución al problema que puede ser _ejecutada_ por una máquina.
 
-Saber programar nos da un gran poder: en lugar de hacer nosotros tareas repetitivas y tediosas, **usaremos nuestros conocimientos e imaginación para automatizarlas**, teniendo en cuenta que **si podés pensarlo, podés construirlo**. Lo bueno es que una vez que le explicamos a una computadora cómo resolver una tarea, ésta nunca se aburre.
+Saber programar nos da un gran poder: en lugar de hacer tareas repetitivas y tediosas, **usaremos nuestros conocimientos e imaginación para automatizarlas** (por suerte, la computadora no se aburre :wink:).
 
-El resultado de programar es justamente... ¡un programa! O sea, una descripción de la solución al problema, que de alguna forma puede ser utilizada en una máquina de forma automática para resolver el problema. Al utilizar la máquina y el programa de esta manera decimos que la máquina **ejecuta** el programa.
+Pero, ¿cómo le explicamos a la máquina de qué forma resolver el problema? Necesitamos escribirla en un idioma que tanto ella como las personas podamos entender: el _lenguaje de programación_.
 
-Es bastante evidente que, entonces, para programar necesitamos:
-
-1. **Pensar el programa:** idear una estrategia que solucione el problema. 
-1. **Escribir el programa:** escribir la solución en un idioma que los humanos podamos entender y la máquina pueda interpretar - **el lenguaje de programación**. 
-1. **Probar el programa:** asegurarnos de alguna forma que éste haga lo que debe (¡porque podríamos habernos equivocado en cualquiera de los pasos anteriores!).
-
-En esta guía aprenderemos sobre las dos primeras cosas usando el tablero de bolitas que nos da el lenguaje Gobstones. 
-
-¡Éxitos!
+¡Aprendamos cómo hacerlo de la mano del lenguaje Gobstones!
