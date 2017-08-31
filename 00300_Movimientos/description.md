@@ -14,4 +14,4 @@ program {
 }
 ```
 
-> ¿No nos creés? Copiá y pegá el código anterior en el editor y dale Enviar.
+> ¿No nos creés? Escribí el código anterior en el editor y dale Enviar.
