@@ -4,4 +4,8 @@ Y eso es porque.... ¡no te debe importar! Si tu programa está bien escrito, y 
 
 De todas formas, sólo por esta vez y como ayudita te mostramos el tablero sobre el que ejecutaremos tu programa:
 
-![3x3h](https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-fundamentos-gobstones-guia-1-primeros-programas/master/3x3h.png)
+<gs-board>
+  GBB/1.0
+    size 3 3
+    head 0 0
+</gs-board>
