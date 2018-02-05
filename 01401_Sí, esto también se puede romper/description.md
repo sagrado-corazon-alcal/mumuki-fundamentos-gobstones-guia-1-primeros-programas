@@ -6,5 +6,8 @@ Dicho esto, te vamos a mostrar una forma de hacerlo, simplemente para que no te 
 
 > ¿Y cómo es esa forma? Descubrilo vos: partiendo del tablero que te mostramos acá abajo, escribí un programa que provoque que el cabezal se salga fuera de los límites.
 
-![3x3h](https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-fundamentos-gobstones-guia-1-primeros-programas/master/3x3h.png)
-
+<gs-board>
+  GBB/1.0
+    size 3 3
+    head 0 0
+</gs-board>
