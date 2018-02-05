@@ -9,7 +9,13 @@ En cualquier celda de nuestro tablero podemos poner `bolitas`. Las hay de distin
 
 Por ejemplo, este es un tablero con una bolita roja y una negra:
 
-![2x2r10n11](https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-fundamentos-gobstones-guia-1-primeros-programas/master/2x2r10n11.png)
+<gs-board>
+  GBB/1.0
+    size 2 2
+    cell 1 0 Rojo 1
+    cell 1 1 Negro 1
+    head 1 1
+</gs-board>
 
 Además de moverse, el cabezal también puede poner bolitas en la **celda actual**. Para eso contamos con la operación `Poner`, que le dice al cabezal que deposite una bolita del color dado:
 
@@ -21,4 +27,8 @@ program {
 
 > ¡Probá este programa! Escribí el código en el editor, envialo y verás lo que pasa al ejecutarlo sobre este tablero:
 
-![3x3h](https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-fundamentos-gobstones-guia-1-primeros-programas/master/3x3h.png)
+<gs-board>
+  GBB/1.0
+    size 3 3
+    head 0 0
+</gs-board>
