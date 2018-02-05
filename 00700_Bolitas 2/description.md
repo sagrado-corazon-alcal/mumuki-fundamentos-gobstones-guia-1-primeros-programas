@@ -2,7 +2,11 @@ Algo interesante de nuestros tableros es que en sus celdas podemos poner cualqui
 
 Por ejemplo, si tenemos este tablero:
 
-![5x2h](https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-fundamentos-gobstones-guia-1-primeros-programas/master/5x2h.png)
+<gs-board>
+  GBB/1.0
+    size 5 2
+    head 3 1
+</gs-board>
 
 y ejecutamos el siguiente programa:
 
