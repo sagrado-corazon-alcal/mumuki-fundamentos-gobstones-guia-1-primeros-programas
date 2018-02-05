@@ -2,7 +2,7 @@ Hasta ahora lo que hiciste no fue muy emocionante, porque no te enseñamos cómo
 
 Por ejemplo, partiendo de un tablero **inicial** vacío, podemos fácilmente escribir un programa que mueva el cabezal una posición hacia el **norte**:
 
-<table class= "table">
+<table class= "table" style="width:100%">
   <thead>
   <tr>
     <th style="text-align: center">Inicial</th>
