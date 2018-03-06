@@ -14,7 +14,7 @@ una forma posible de leerlo (llamada **operacional**) es como lo haría una máq
 
 Y de hecho **se ejecuta de esa forma**. Esto es _cómo_ lo hace.
 
-Sin embargo, los humanos somos mejores hablando del todo, del resultado final: el objetivo del programa, es decir, _qué_ es lo que hace. Y si lo pensamos así (**denotacionalmente**) lo que hace es: **mueve el cabezal al noreste**.
+Pero, los humanos, solemos pensar en función del resultado final, es decir, resaltamos el **objetivo** del programa. Nos importa más qué hace, y no cómo. Esta manera denotacional nos llevaría a decir que, simplemente, **mueve el cabezal al noreste**. 
 
 Por eso hay varias formas de resolver un mismo problema: podemos escribir varios programas que hagan lo mismo (el _qué_), pero que lo hagan de forma diferente (el _cómo_).
 
