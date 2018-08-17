@@ -7,6 +7,7 @@ teacher_info: ''
 language: gobstones
 id_format: "%05d"
 order:
+- 1404
 - 100
 - 200
 - 300
@@ -20,4 +21,3 @@ order:
 - 1300
 - 1402
 - 1403
-- 1404
