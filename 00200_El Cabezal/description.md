@@ -1,4 +1,4 @@
-Como notaste en el ejercicio anterior, el tablero generado tenía una **celda** marcada:
+El tablero generado en el ejercicio anterior tenía una **celda** marcada:
 
 <gs-board>
   GBB/1.0
