@@ -2,10 +2,10 @@ Genial, ya entendiste cómo mover el cabezal del tablero usando la operación `M
 
 En cualquier celda de nuestro tablero podemos poner `bolitas`. Las hay de distintos colores:
 
- * Rojas (`Rojo`)
- * Azules (`Azul`)
- * Negras (`Negro`)
- * Y verdes (`Verde`)
+ * rojas (`Rojo`);
+ * azules (`Azul`);
+ * negras (`Negro`);
+ * y verdes (`Verde`).
 
 Por ejemplo, este es un tablero con una bolita roja y una negra:
 
