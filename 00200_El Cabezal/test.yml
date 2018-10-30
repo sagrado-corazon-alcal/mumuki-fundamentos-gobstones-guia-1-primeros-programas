@@ -1,4 +1,7 @@
 show_initial_board: false
+
+
+
 examples:
  - initial_board: |
      GBB/1.0
