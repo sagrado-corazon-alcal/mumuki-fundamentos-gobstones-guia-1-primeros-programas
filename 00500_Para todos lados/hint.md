@@ -10,6 +10,8 @@ Para eso es importante saber que las direcciones tienen los nombres de los cuatr
 Por ejemplo, un programa que se mueva 1 vez al `Norte` y una al `Este` sería:
 
 ``` gobstones
-Mover(Norte)
-Mover(Este)
+program {
+  Mover(Norte)
+  Mover(Este)
+}
 ```
