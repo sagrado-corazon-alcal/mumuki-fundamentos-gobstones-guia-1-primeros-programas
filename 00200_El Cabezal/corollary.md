@@ -1,1 +1,1 @@
-¡Muy bien!
+Como podrás ver podemos crear muchísimos tableros distintos, pero ¿el cabezal se va a quedar siempre en el mismo casillero? :face_with_monocle:
