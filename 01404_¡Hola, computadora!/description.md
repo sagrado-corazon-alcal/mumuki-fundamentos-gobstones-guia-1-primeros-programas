@@ -1,4 +1,4 @@
-En nuestra vida cotidiana sabemos cómo hacer para comunicarnos con otras personas. Si necesitamos que hagan algo, sabemos que tenemos que pedirles por favor. También sabemos cómo darle órdenes a nuestras mascotas. Pero… ¿cómo hacemos para darle órdenes a una computadora? :no_mouth:
+En nuestra vida cotidiana sabemos cómo hacer para comunicarnos con otras personas. Si necesitamos que hagan algo, sabemos que tenemos que pedirles por favor :pray:. También sabemos cómo darle órdenes a nuestras mascotas. Pero… ¿cómo hacemos para darle órdenes a una computadora? :no_mouth:
 
 ¡Enterate mirando este video! :arrow_down: :arrow_down: :arrow_down:
 
