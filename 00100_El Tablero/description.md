@@ -6,7 +6,7 @@ Estos tableros pueden ser de cualquier tamaño, por ejemplo,
 |:---:|:---:|
 |![4x4](https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-fundamentos-gobstones-guia-1-primeros-programas/master/4x4.png)|![3x2](https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-fundamentos-gobstones-guia-1-primeros-programas/master/3x2.png)|
 
-Siempre vamos a necesitar un tablero sobre el cual **ejecutar** nuestros **programas**, y nosotros nos vamos a encargar de crearlos por vos en cada uno de los ejercicios. Lo interesante es que un mismo programa puede ejecutarse sobre distintos tableros, potencialmente produciendo resultados diferentes.
+Siempre vamos a necesitar un tablero sobre el cual **ejecutar** nuestros **programas**, ¡pero despreocupate! nos vamos a encargar de crearlos por vos en cada uno de los ejercicios. Lo interesante es que un mismo programa puede ejecutarse sobre distintos tableros, potencialmente produciendo resultados diferentes. :exploding_head:
 
-> Y para que veas que no mentimos, presioná el botón Continuar, y generaremos tu primer tablero: un tablero de 3x3.
+> Para que veas lo que te decimos, presioná el botón Continuar, y vamos a generar tu primer tablero: un tablero de 3x3. :grin:
 
