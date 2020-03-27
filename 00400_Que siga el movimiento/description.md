@@ -1,4 +1,4 @@
-Entendamos qué es lo que acabamos de hacer: escribir un programa.
+Entendamos qué es lo que acabamos de hacer: ¡escribir un programa!
 
 Todo programa tiene exactamente un `program`: una sección del código que declara los comandos (acciones) que queremos que la máquina realice sobre el tablero **inicial**. Al **ejecutar** un programa obtendremos un tablero **final**.
 
@@ -8,16 +8,16 @@ La sintaxis de un `program` es bastante simple:
 1. a continuación, los comandos: uno por línea
 1. y finalmente, una última llave que cierra la que abrimos anteriormente `}`
 
-Algunos ejemplos de `program`s:
+Vamos a ver algunos ejemplos de `program`s:
 
+* uno que no hace nada
 
 ```gobstones
 program {
 }
 ```
 
-(no hace nada)
-
+* uno que mueve el cabezal **una** posición hacia el norte
 
 ```gobstones
 program {
@@ -25,7 +25,7 @@ program {
 }
 ```
 
-(mueve el cabezal una posición hacia el norte)
+* uno que mueve el cabezal **dos** posiciones hacia el norte
 
 ```gobstones
 program {
@@ -34,10 +34,11 @@ program {
 }
 ```
 
-(mueve el cabezal dos posiciones hacia el norte)
+¡Te toca a vos!
 
-> Sabiendo ésto, escribí un programa que en un tablero de 2x4 con el cabezal en el origen (la celda de abajo a la izquierda), mueva el cabezal tres veces hacia el norte:
 
+> Escribí un programa que en un tablero de 2x4 con el cabezal en el origen (la celda de abajo a la izquierda), mueva el cabezal tres veces hacia el norte:
+>
 <table class= "table" style="width:100%">
   <thead>
   <tr>
