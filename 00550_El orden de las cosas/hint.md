@@ -1,3 +1,3 @@
-Probá invertir el orden de los comandos.
+Recordá que no existe la dirección Noreste, pero sí `Norte` y `Este`.
 
-Si bien la máquina lo ejecutará en un orden diferente, el resultado final será el mismo.
+Probá invertir el orden de los comandos. Si bien la máquina lo ejecutará en un orden diferente, el resultado final será el mismo. :sunglasses:
